@@ -5,12 +5,15 @@
 <!-- social network handles --> 
    
   <div id="badges">
+  <!-- Instagram -->
   <a href="https://instagram.com/_elbon_?igshid=ZDdkNTZiNTM=">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+ <!-- LinkedIn -->
    <a href="https://www.linkedin.com/in/noble-austine-767453227">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+ <!-- YouTube -->
   <a>
     <img src="https://img.shields.io/badge/YouTube-maroon?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
@@ -20,6 +23,12 @@
 <div>
   <img src="https://media.giphy.com/media/lBm4rgtyIPJmywXzLW/giphy.gif" width="210"/>
 </div>
+  
+<!-- view counter -->
+<div>
+    <img src="https://komarev.com/ghpvc/?username=nobleaustine&style=flat-circle&color=blue" alt=""/>  
+ </div>
+  
   &nbsp;
  <div>
 <!-- first words -->
